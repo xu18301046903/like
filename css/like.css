@@ -1,0 +1,87 @@
+.navbar-default {
+    
+   background: #000;
+}
+.center{
+	padding: 20px;
+}
+#three{
+	
+	background: #333333;
+}
+#three p{
+	padding: 20px;
+	line-height: 25px;
+	color:  #bab1ae;
+}
+#vc b{
+	padding-top: 20px;
+	display: block;
+	font-weight: normal;
+	color: #bab1ae;
+}
+#vc .btn-default{
+	background: #ccab0d;
+	border-radius: 0;
+	margin-top: 17px;
+}
+.fou{
+	background: #222222;
+}
+.fou p{
+	line-height: 40px;
+}
+.five{
+	background: url(../img/bg.jpg) no-repeat center center;
+	background-size: 100% 100%;
+	
+	
+}
+#ff p{
+	padding: 25px;
+	color: #c9d0c9;
+	font-size: 17px;
+}
+#ff p span{
+	color: #d2a324;
+	line-height:25px;
+}
+#ff p a img{
+	margin: 0 auto;
+	padding: 25px;
+}
+#tt{
+	text-align: center;
+}
+#tt h4{
+	color: #06795e;
+}
+#tt img{
+	
+	margin: 0 auto;
+}
+#tt p{
+	color: #fff;
+}
+span{
+	color: #fff;
+}
+.foot{
+	background: #fff;
+	
+}
+h2{
+	color: #06795E;
+	text-align: center;
+	padding-top: 60px;
+}
+#ft{
+	padding:30px;
+	margin-bottom: 30px;
+}
+#op{
+	margin-top: -30px;
+	margin-bottom: 20px;
+}
+
+
